@@ -134,4 +134,4 @@ Obrigado por usar o Smart Flow! Estamos sempre melhorando a aplicação com base
 
 ---
 
-**Desenvolvido com ❤️ por Jorge Rios**
+**Desenvolvido por Jorge Rios**
